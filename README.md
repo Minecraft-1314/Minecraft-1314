@@ -10,8 +10,6 @@
 
 ---
 
-<table align="center"><tr><td valign="top" width="50%">
-
 ### 关于我 / About Me
 
 > 一名在澳门读书的高中生。白天上课，晚上写代码。
@@ -29,23 +27,6 @@ My tech stack revolves around TypeScript and Node.js, with occasional use of Pyt
 如果你对我的仓库感兴趣，随便翻翻就好。能帮到你的话，我会很高兴。
 
 If any of my repositories catch your interest, feel free to look around. I'd be glad if something here is useful to you.
-
-</td><td valign="top" width="50%">
-
-### GitHub 统计 / GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Minecraft-1314&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_bust=1" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minecraft-1314&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_bust=2" alt="Top Languages" />
-</p>
-
-  <img src="https://github-readme-stats-git-master.vercel.app/api?username=Minecraft-1314&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img src="https://gh-stats-card.vercel.app/api?username=Minecraft-1314&theme=tokyonight" />
-
-</td></tr></table>
 
 ---
 
