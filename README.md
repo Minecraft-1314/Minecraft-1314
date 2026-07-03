@@ -30,14 +30,6 @@ If any of my repositories catch your interest, feel free to look around. I'd be 
 
 ---
 
-### GitHub 奖杯 / GitHub Trophies
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Minecraft-1314&theme=tokyonight&no-frame=true&margin-w=15" alt="GitHub Trophies" />
-</p>
-
----
-
 <p align="center">
   <i>感谢你花时间看到这里。 / Thanks for stopping by.</i>
 </p>
