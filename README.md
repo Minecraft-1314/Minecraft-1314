@@ -42,10 +42,8 @@ If any of my repositories catch your interest, feel free to look around. I'd be 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minecraft-1314&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_bust=2" alt="Top Languages" />
 </p>
 
-<!-- 如果上方统计图无法显示，请尝试以下备用源：
   <img src="https://github-readme-stats-git-master.vercel.app/api?username=Minecraft-1314&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
   <img src="https://gh-stats-card.vercel.app/api?username=Minecraft-1314&theme=tokyonight" />
--->
 
 </td></tr></table>
 
