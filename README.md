@@ -1,6 +1,5 @@
 <div align="center">
-  <h2>Hi, I'm <strong>Minecraft_1314</strong></h2>
-  <p>A high school student from Macau.<br>Writing code for fun, mostly at night.</p>
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=3000&pause=800&color=36BCF7&center=true&vCenter=true&width=500&lines=Hi,+I'm+Minecraft_1314!;A+high+school+student+from+Macau;Writing+code+for+fun,+mostly+at+night" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -10,6 +9,8 @@
 </p>
 
 ---
+
+<table align="center"><tr><td valign="top" width="50%">
 
 ### 关于我 / About Me
 
@@ -29,14 +30,24 @@ My tech stack revolves around TypeScript and Node.js, with occasional use of Pyt
 
 If any of my repositories catch your interest, feel free to look around. I'd be glad if something here is useful to you.
 
----
+</td><td valign="top" width="50%">
 
 ### GitHub 统计 / GitHub Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Minecraft-1314&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minecraft-1314&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Minecraft-1314&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_bust=1" alt="GitHub Stats" />
 </p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Minecraft-1314&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_bust=2" alt="Top Languages" />
+</p>
+
+<!-- 如果上方统计图无法显示，请尝试以下备用源：
+  <img src="https://github-readme-stats-git-master.vercel.app/api?username=Minecraft-1314&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://gh-stats-card.vercel.app/api?username=Minecraft-1314&theme=tokyonight" />
+-->
+
+</td></tr></table>
 
 ---
 
