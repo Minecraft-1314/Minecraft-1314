@@ -3,7 +3,6 @@
 </div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Minecraft-1314&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <img src="https://img.shields.io/github/stars/Minecraft-1314?style=social" alt="Stars" />
   <img src="https://img.shields.io/github/followers/Minecraft-1314?style=social" alt="Followers" />
 </p>
