@@ -12,16 +12,16 @@
 
 ### 关于我 / About Me
 
-> 一名在澳门读书的高中生。白天上课，晚上写代码。
+> 一名在澳门读书的高中生。白天上课，晚上写代码
 >
 > I'm a high school student in Macau. Classes by day, coding by night.
 
-如果你对我的仓库感兴趣，随便翻翻就好。能帮到你的话，我会很高兴。
+如果你对我的仓库感兴趣，随便翻翻就好。能帮到你的话，我会很高兴
 
 If any of my repositories catch your interest, feel free to look around. I'd be glad if something here is useful to you.
 
 ---
 
 <p align="center">
-  <i>感谢你花时间看到这里。 / Thanks for stopping by.</i>
+  <i>感谢你花时间看到这里 / Thanks for stopping by.</i>
 </p>
